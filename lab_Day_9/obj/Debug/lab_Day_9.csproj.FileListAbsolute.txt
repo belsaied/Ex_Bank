@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\lab_Day_9\lab_Day_9\bin\Debug\lab_Day_9.exe.config
+C:\Users\Admin\source\repos\lab_Day_9\lab_Day_9\bin\Debug\lab_Day_9.exe
+C:\Users\Admin\source\repos\lab_Day_9\lab_Day_9\bin\Debug\lab_Day_9.pdb
+C:\Users\Admin\source\repos\lab_Day_9\lab_Day_9\obj\Debug\lab_Day_9.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\lab_Day_9\lab_Day_9\obj\Debug\lab_Day_9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\lab_Day_9\lab_Day_9\obj\Debug\lab_Day_9.exe
+C:\Users\Admin\source\repos\lab_Day_9\lab_Day_9\obj\Debug\lab_Day_9.pdb
